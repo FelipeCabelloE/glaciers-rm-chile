@@ -3,6 +3,17 @@ glaciers-rm-chile
 
 Glaciers from RM, Chile
 
+**TODO**
+    - Definir el workflow del seteado del ambiente virtual (Revisar definiciones del Cookiecutter-Datascience)
+    - Notebooks prototipos de extracción de datos
+
+**Referencias**
+    - Documentación de la estructuración del proyecto -->"https://drivendata.github.io/cookiecutter-data-science/"
+    - Fuente de datos de perimetro de glaciares -->"https://www.glims.org/"
+    - Paper científico del modelo de modelo abierto de glaciares -->"https://gmd.copernicus.org/articles/12/909/2019/"
+    - Documentación de trabajo de AWS para EARTH DATA -->"https://earthdata.nasa.gov/learn/user-resources/webinars-and-tutorials/cloud-primer"
+
+
 Project Organization
 ------------
 
